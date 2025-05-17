@@ -211,4 +211,11 @@ Se você encontrar problemas durante a instalação:
 - scikit-learn: Algoritmos de machine learning
 - matplotlib e seaborn: Visualização de dados
 - streamlit: Interface interativa de usuário
-- plotly: Gráficos interativos 
+- plotly: Gráficos interativos
+
+## Arquivos Grandes
+Por limitações do GitHub, os seguintes arquivos foram removidos do repositório:
+- `dados_desafio_fiap/hash/df_t.csv` (629.73 MB)
+- `models/modelo_recomendacao_trechos.pkl` (1565.57 MB)
+
+Estes arquivos são necessários para executar o projeto e podem ser encontrados no backup local. 
