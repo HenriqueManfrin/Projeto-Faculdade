@@ -1,0 +1,23 @@
+from setuptools import setup, find_packages
+
+setup(
+    name="clickbus-analysis",
+    version="0.1.0",
+    description="Análise de dados e previsões para ClickBus",
+    author="Henrique Manfrin",
+    author_email="henriquemanfrin@gmail.com",
+    packages=find_packages(),
+    install_requires=[
+        "pandas>=2.1.0",
+        "numpy>=1.26.0",
+        "scikit-learn>=1.4.0",
+        "matplotlib>=3.8.0",
+        "seaborn>=0.13.0",
+        "streamlit>=1.32.0",
+        "plotly>=5.18.0",
+        "jupyter>=1.0.0",
+        "ipykernel>=6.29.0",
+        "tqdm>=4.66.0",
+    ],
+    python_requires=">=3.8",
+) 

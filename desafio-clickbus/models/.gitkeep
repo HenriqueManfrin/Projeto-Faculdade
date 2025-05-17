@@ -1,0 +1,8 @@
+# Mantém o diretório no repositório
+#
+# Este diretório contém os modelos treinados:
+# - encoder_trechos.pkl: Encoder utilizado para converter trechos em formato categórico para numérico
+# - modelo_recomendacao_trechos.pkl: Modelo de recomendação de trechos de viagem
+#
+# Os modelos são grandes para serem armazenados no Git, então são excluídos por .gitignore
+# e devem ser gerados executando os notebooks em notebooks/ 

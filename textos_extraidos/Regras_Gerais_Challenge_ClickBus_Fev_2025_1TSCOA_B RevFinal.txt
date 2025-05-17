@@ -1,0 +1,992 @@
+
+
+--- PÁGINA 1 ---
+
+Enterprise Challenge
+  
+SQL EXTENSION LANGUAGE
+ENTERPRISE
+CHALLENGE
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 2 ---
+
+Enterprise Challenge
+PROJETO  CHALLENGE : TURMAS DE FEVEREIRO  2025  
+ 
+ 
+Figura 1 - Imagem que apresenta o Desafio do Challenge CLICKBUS e FIAP . 
+Fonte: Google (2025) 
+ 
+1. Objetivo  
+O projeto Challenge tem como objetivo  capacitar  o aluno a desenvolver  um projeto , 
+simulando a experiência  profissional , utilizando técnicas, ferramentas, metodologias e boas 
+práticas utilizadas ao longo do curso de tecnologia. O Challenge é uma atividade 
+extensionista , que visa aplicar o conhecimento a cadêmico em benefício da comunidade, 
+desenvolvendo projetos para a sociedade, propondo desafios e soluções reais, com objetivo de 
+impactar e agregar valor significativo à vida das pessoas. Essas atividades têm como objetivo 
+principal a disseminação do conh ecimento produzido nas instituições de ensino superior, além 
+de contribuir para o desenvolvimento social, cultural, econômico e científico do país. As 
+atividades extensionistas desempenham um papel fundamental na promoção do 
+desenvolvimento sustentável, na  democratização do acesso ao conhecimento e na 
+formação de cidadãos mais conscientes e engajados . Elas representam uma via de mão 
+dupla, onde a academia compartilha seu conhecimento e também aprende com as experiências 
+e desafios da comunidade.  
+ 
+2. Papéis  
+ 
+• Responsabilidades dos alunos : todos os componentes do grupo devem estar 
+envolvidos no projeto , atentar -se à qualidade no desenvolvimento dos entregáveis  e 
+efetuar  as entregas de acordo com  a forma estabelecida na atividade ; 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 3 ---
+
+Enterprise Challenge
+• Responsabilidades do Tutor da tu rma:  o tutor do curso é responsável por orientar o 
+desenvolvimento do projeto  e apoiar os grupos na evolução das entregas, bem como ser 
+responsável por toda avaliação acadêmica e atribuição de notas ; 
+• Responsabilidades do SCRUM MASTER do Challenge : o projeto de Challenge tem 
+um profissional responsável que estará encarregado da coordenação referente à gestão, 
+planejamento e acompanhamento dos projetos, comunicação e orientação de entregas 
+junto ao parceiro ;  
+• Responsabilidades da Empresa Parceira : a empresa parceira é responsável e 
+soberana na escolha dos 3 melhores projetos desenvolvidos pelos alunos , que serão 
+apresentados no NEXT.  
+ 
+3. Normas Básicas  
+ 
+1. Número máximo de integrantes por grupo: até 5 alunos.  
+2. Os grupos têm obrigação de aceitar novos componentes.  
+3. O grupo deve eleger um representante (encarregado por efetuar as entregas do projeto) . 
+4. Os grupos devem idealizar os projetos a serem desenvolvidos ao longo do ano letivo, 
+dividido em entregas para o 1º e 2º semestre s. 
+5. Será realizada uma entrega ao final de cada sprint, onde cad a entrega deve atender aos 
+itens solicitados daquele sprint . Nesse desafio , vamos ter um total de 4 sprints.   
+6. Serão pré -selecionados 10 projetos pelo scrum  master  e tutores , e os grupos de alunos 
+classificados devem  apresenta r obrigatoriamente para a empresa parceira (banca de 
+avaliação)  e todos os alunos da equipe deverão participar da apresentação.   
+7. Regra para troca de componentes dos grupos: a troca de grupos é possível e deve 
+ocorrer até 1 (uma) semana após a entrega da sprint , e todos os envolvidos devem ser 
+avisados, sendo permitida a troca até a sprint 3. Atenção : não é permitid a a troca de 
+componentes dos grupos para a sprint 4, uma vez qu e estaremos na sprint final de 
+trabalho e apresentação do projeto.   
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 4 ---
+
+Enterprise Challenge
+8. Há possibilidade de entregas tardias , porém com desconto da nota até o prazo final 
+determinado na plataforma . Após o prazo da entrega tardia, a plataforma fecha e não 
+serão aceitas novas submissões . Então , fique atento  para obter uma nota sem desconto , 
+fazendo um bom planejamento da equipe que garant a o desenvolvimento e entrega das 
+atividades conforme o cronograma apresentado.  
+9. A entrega dos arquivos e respectivos formatos é  de responsabilidade da equipe, então , 
+a equipe deve verificar se todos os arquivos estão consistentes antes d a realização da 
+entrega (atenção para arquivos sem conteúdo, corrompidos, zipados etc.). A preferência 
+é que os arquivos funcionem no Sistema Oper acional Windows ; não é uma restrição, 
+mas é o desejável.  
+10. As entregas não podem  ser realizadas por meio  de links ; todos os arquivos solicitados 
+devem ser anexados na plataforma ON da FIAP , salvo quando solicitados links de vídeo 
+pitch.  
+11. Links para o pitch di sponibilizado s no youtube deve m ser entregue s em um arquivo 
+.TXT à parte, contendo também o nome da equipe, RMs e nome dos componentes em 
+ordem alfabética , facilitando a localização.    
+12. Os RMs  e nomes dos alunos devem ser informados sempre em ordem alfabética , 
+facilitando a localização dos integrantes pelos professores durante , principalmente , a 
+atribuição de nota.   
+13. Dica : a fim de mitigar problemas durante a entrega, é importante que todos os 
+componentes do grupo possuam uma cópia completa de todos os arquivos a serem 
+entregues.  Dessa forma , todos os alunos da equipe possuem  condições de realizar a 
+entrega  da atividade.  
+ 
+4. Context ualizando o Desafio  
+ 
+O projeto do Challenge  possui um parceiro que demandará um desafio a ser 
+desenvolvido durante as fases do 1º semestre de 2025 e as fases do 2º semestre de 2025 . A 
+meta é idealizar o projeto e realizar a entrega prática em formato hands on  de uma parte 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 5 ---
+
+Enterprise Challenge
+relevante da solução definida. O entregável feito pelo grupo será na plataforma FIAP ON, 
+posteriormente corrigido pelo tutor , e os melhores grupos selecionados serão  submetidos à 
+uma banca avaliativa, onde o parceiro elegerá os vencedores do desafio.  
+Os projetos finalistas serão apresentados e premiados no evento NEXT de 202 5. 
+Ah, e não podemos esquecer...os 3 (três) melhores projetos, selecionados pela Empresa 
+Parcei ra, deverão ser apresentados no NEXT 202 5. Os alunos finalistas (1o., 2o. e 3o. lugares), 
+serão chamados no palco do evento e receberão os prêmios (shape, camiseta, medalha, 
+voucher para o prêmio em dinheiro) e a gratuidade na entrada do evento.  
+A empresa parceira do nosso desafio será a CLICKBUS , uma das principais plataformas 
+de venda on -line de passagens de ônibus no Brasil .  Fundada em 2013, ela revolucionou a 
+forma como os brasileiros compram passagens de ônibus, tornando -se a maior plataform a on-
+line do setor no país. Como um marketplace líder, a ClickBus conecta milhões de viajantes a 
+mais de 200 viações parceiras, cobrindo mais de 4.000 destinos. Sua missão é "viabilizar 
+momentos únicos e transformadores através das viagens de ônibus", simp lificando a jornada 
+do viajante com tecnologia, facilidade e segurança. Operando com um grande volume de dados 
+transacionais e de comportamento do usuário, a ClickBus é um campo fértil para a aplicação 
+inovadora da ciência de dados.  A ClickBus também se d estaca por seu compromisso com a 
+excelência no atendimento ao cliente, sendo tricampeã do Prêmio Reclame Aqui e detentora 
+dos selos Innovative Workplaces Brasil 2024, RA1000 e Great Place to Work 2024. Para saber 
+mais sobre a ClickBus e seus serviços, você  pode visitar o site oficial da empresa : 
+https://www.clickbus.com.br/  
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 6 ---
+
+Enterprise Challenge
+ 
+Figura 2 - Imagem do site principal da CLICKBUS  
+Fonte: Google (2025)  
+ 
+ 
+Diante desse cenário, o time da ClickBus  propõe o seguinte desafio : 
+ 
+ 
+Figura 3 - Imagem que apresenta o Desafio do Challenge CLICKBUS e FIAP  
+Fonte: Google (2025)  
+ 
+DESAFIO: CHAMADA PARA O CONCURSO DE CIÊNCIA DE DADOS FIAP CLICKBUS: 
+DESVENDE OS PADRÕES DE VIAGEM!  
+ 
+Sejam bem -vindos(as) ao Desafio!  
+A FIAP, em parceria com a ClickBus, tem o prazer de convidá -los a participar de um 
+emocionante concurso de ciência de dados projetado especialmente para os alunos do primeiro 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 7 ---
+
+Enterprise Challenge
+ano do  curso Tecnólogo em Data Science! Es sa é a sua chance de aplicar os conhecimentos 
+adquiridos durante as fases de seu primeiro ano em um cenário real e impactante.  
+ 
+O CONCURSO  
+ 
+Ao longo do ano letivo, vocês terão a oportunidade de trabalhar em equipes para resolver 
+desafios de negócios reais propostos pela ClickBus, utilizando um conjunto de dados 
+anonimizados inspirado em suas operações. Es sa competição visa aprimorar suas habil idades 
+em manipulação de dados, análise exploratória, modelagem e comunicação de resultados.   
+Estes são os principais desafios que todas as equipes deverão enfrentar:  
+1) Decodificando o Comportamento do Cliente (Perfil de Compra):  
+Objetivo:  segmentar os clientes da ClickBus em grupos distintos com base em seu 
+histórico de compras. O foco é entender os diferentes perfis de viajantes para direcionar 
+estratégias. Esperamos que , ao analisar os dados , os clientes possam ser divididos em 
+grupos para  que possam ser tratados de forma semelhante, sejam em promoções, e -
+mails marketing etc.  
+Extra:  construir um dashboard que permita monitorar o comportamento de compra 
+desses grupos de clientes.  
+2) O Timing é Tudo (Previsão da Próxima Compra):  
+Objetivo:  prever, para um conjunto de clientes, se eles realizarão qualquer compra na 
+plataforma dentro de uma janela de tempo futura definida (próximos 7 ou 30 dias). Um 
+problema de classificação binária.   
+Extra: prever o número de dias até a próxima compra do cliente.   
+3) A Estrada à Frente (Previsão do Próximo Trecho):  
+Objetivo: prever qual o trecho específico (par origem -destino) um cliente tem maior 
+probabilidade de comprar em sua próxima viagem. Pode ser abordado como 
+classificação multi -classe ou recomendação.    
+Extra: combinar com  o desafio 2 entregando a data e trecho da próxima compra.   
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 8 ---
+
+Enterprise Challenge
+PREPAREM -SE! 
+Essa é uma oportunidade única de aplicar seus conhecimentos, desenvolver seu 
+portfólio e interagir com um problema real de uma empresa líder em tecnologia de viagens. 
+Formem suas equipes, explorem os dados e mostrem o poder da ciência de dados!  
+Aproveite e fique à vontade em utilizar sua criatividade e explorar novas maneiras para 
+encontrar grandes oportunidades.  
+Ah, mas não se esqueça que, para atingir o alvo de forma certeira, é essencial 
+compreender plenamente a real necessidade da empresa parceira. Por isso, nossa dica é que 
+você leia com calma e atenção os conteúdos apresentados nesse material, pois eles servirão 
+como base para o desenvolvimento da sua prop osta. O link para a live do kickoff estará 
+disponível no seu calendário no Microsoft Teams, então , fiquem atentos.   
+Esse s excelente s desafios envolvem o uso de dados e necessitam que informações 
+sejam disponibilizadas apoiando a tomada de decisão. Algumas  fontes de dados serão 
+fornecidas pela CLICKBUS  para serem utilizadas em seu projeto . Porém, entenda que elas são 
+apenas um pequeno ex emplo  e, assim sendo,  sinta -se à vontade em incrementar sua s análise s 
+utilizando outras fontes , desde que sejam públicas e fidedignas.  
+Confiamos em você para aplicar inovação em seu projeto e criar oportunidades de 
+negócio com iniciativas que traga m significativa vantagem competitiva para a CLICKBUS . 
+Boa sorte  a todos!  
+ 
+5. Um roteiro bem escrito faz toda a diferença  
+Por onde começo ? Como me organizar melhor?  
+Perguntas como es sas e outr as aparecem quando estamos a iniciar um desafio como 
+esse. Para ajudar com os seus próximos passos, temos aqui uma pequena sugestão para início 
+de seu projeto!  
+Tudo começa com o surgimento de uma ideia e , nesse momento , é fundamental ter 
+criatividade e visão de mercado para que esse insight realmente seja útil e inovador. Observar 
+oportunidades a sua volta para resolver questões de cunho pessoal  ou profissional geralmente 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 9 ---
+
+Enterprise Challenge
+traz bons frutos. Peça para cada componente de se u grupo anotar ideias que chamem atenção, 
+faça pesquisas iniciais e depois , em grupo , defina qual desafio se encaixa melhor em sua 
+escolha e o tema preferido  que em breve irá se tornar um projeto . 
+Com a definição do que será feito, inicia -se a fase de plan ejamento e alinhamento de 
+diversas atividades envolvendo a equipe .  Definição dos papéis e responsabilidades de cada 
+membro do time, marcos de entregas, principais tarefas a serem executadas, datas e horários 
+das cerimônias envolvendo o time para atualizar  o plano de trabalho são algumas das 
+atividades que fazem parte dessa etapa. Isso quer dizer que , nesse momento, iniciamos um 
+projeto co mposto por pessoas, metas e tarefas, permitindo a todos uma visão geral do que será 
+feito e uma melhor percepção d o esfo rço envolvido.  Esse passo é importante e provavelmente , 
+ao final , você irá ter uma percepção inicial de quanto tempo será necessário para colocar a 
+ideia do grupo em prática. Aliás, tempo, nos dias atuais, tem um valor inestimável e deve ser 
+muito bem aproveitado, não é mesmo?  
+Em seguida, temos que verificar como está o mercado atualmente em relação à solução 
+definida, personas , market share, regiões de atuação para identificar o alcance da solução 
+proposta , entre outras pesquisas relevantes ao tema. Procur e encontrar se já existem 
+produtos ou serviços semelhantes  ao que será ofertado  e quais são os grandes 
+diferenciais da sua proposta . Esse tipo de análise traz muitos refinamentos, aprimorando o 
+projeto e agregando valor real para os futuros usuários.  Entenda que sua solução possa ser 
+utilizada em outras organizações que têm o mesmo problema.  
+Para garantir o bom andamento do projeto , vamos utilizar a  metodologia ágil , permit indo 
+integrar e valorizar os participantes de sua equipe , bem como se antever a possíveis desvios 
+de curso . Use e abuse dos frameworks ágeis e suas cerimônias, ferramentas para  facilitar o 
+gerenciamento do projeto e não se esqueça de documentar muito bem o que está sendo feito.  
+Uma sugestão interessante é a utilização do  SCRUM  como um framework a ser considerado 
+na gestão de seu projeto . Lembrem -se que é apenas uma sugestão e sua equipe pode escolher 
+o framework que melhor se adequa ao seu trabalho.  
+Outro ponto muito importante é o escopo de sua solução que necessita estar  bem 
+definido, pois com base nele é que você irá construir o seu MVP  (Produto Mínimo Viável). Se 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 10 ---
+
+Enterprise Challenge
+necessário , faça ajustes para que o produto final contenha as principais funcionalidades da sua 
+solução.  
+MVP é o ponto de partida para transformar uma ideia em realidade, entregando valor 
+aos usuários de maneira ágil, iterativa e econômica. É uma versão simplificada e funcional de 
+um produto ou serviço , que contém apenas as funcionalidades essenciais para ser lançado no 
+mercado ou testado com os usuários . O objetivo principal do MVP é validar uma ideia ou 
+conceito com o menor investimento possível em termos de tempo e recursos. Ao criar um MVP, 
+a equipe foca nas características fundamentais que resolvem o problema principal da persona, 
+permitindo testar h ipóteses e obter feedback dos usuários de forma rápida e eficiente.   
+Com base no retorno dos usuários, ajustes e melhorias podem ser feitos antes de investir 
+em um desenvolvimento mais completo. Essa abordagem reduz riscos, aumenta a 
+probabilidade de suces so do projeto e evita desperdícios, pois permite que o produto seja 
+aprimorado com base em dados reais e necessidades concretas do mercado.   
+Com o planejamento concluído, chegou o momento do start para o desenvolvimento 
+prático, transformando as ideias em uma solução real.  Nessa fase , identifique a parte central 
+da sua solução e quais ferramentas de tecnologia podem acelerar e apoiar a construção.  
+Nesse período de desenvolvimento , temos que manter sua equipe sempre motivada, 
+identificando entraves e desvio s, fazendo os ajustes necessários para que produto  ou o serviço  
+a ser entregue atinja o objetivo planejado. Já na fase final, selecionar  potenciais usuários da 
+solução e realizar testes práticos sempre traz muito valor agregado . 
+Concluíd a a etapa de desenvolvimento, chegamos em outra relevante entrega, o 
+marketing  do produto . Aqui , vale a máxima de que a pro paganda é a alma do negócio.  É 
+preciso chamar  atenção  de forma positiva  para que a curiosidade e o interesse pelo produto 
+apareçam . Criar uma boa imagem e conquistar o público aumenta m substancialmente as 
+chances de sucesso . 
+ A criação de um novo serviço ou produto traz um diferencial c ompetitivo e novas 
+oportunidades de negócios, melhorando a qualidade de vida e bem-estar  de quem a utiliza.   
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 11 ---
+
+Enterprise Challenge
+O Challenge  não é apenas um desafio, mas sim uma oportunidade para você, como 
+aluno, explorar todo o seu potencial e ir além, aplicando sua criatividade e o conhecimento 
+adquirido durante o curso na prática.  
+Acredite na sua ideia e faça acontecer . Sabemos que para chegar em lugares 
+maravilhosos,  precisamos caminhar com perseverança.  
+ 
+6. Entregáveis  
+ 
+Nossas entregas serão parciais e feitas em Sprints . Na metodologia ágil de gestão de 
+projetos , dividimos o trabalho em ciclos curtos e sucessivos, chamados de Sprints.  Ao final de 
+cada sprint , a equipe revisa o trabalho realizado, identifica pontos de melhoria e planeja o 
+próximo sprint , evoluindo o projeto. A evolução do projeto em sprints  é baseada em uma 
+abordagem iterativa e incremental, em que a equipe trabalha em pequenas entregas e ajusta o 
+trabalho com base no feedback obtido.  
+Em cada sprint , é esperado que o projeto evolua incrementalmente, passando desde a 
+fase de ideação até a entrega de uma nova peça do quebra -cabeça. Por isso, é importante 
+submeter o que foi solicitado nas entregas anteriores e acrescentar o que está sendo pedido 
+na fase atual.  Na última sprint , a mais importante, espera -se que seja entregue uma solução 
+funcional (MVP) , ou s eja, que esteja em funcionamento , e por fim apresentar as conclusões 
+do processo de aprendizado obtido com o projeto.    
+ 
+Os entregáveis de seu projeto estão organizados  em 4 (quatro ) Sprints.  
+ 
+ 
+Figura 4 - Imagem que ilustra os 4 sprints a serem utilizados no desafio da CLICKBUS  
+Fonte: Google  (2025) 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 12 ---
+
+Enterprise Challenge
+SPRINT 1  (IDEAÇÃO) : Com  data final de entrega em  Fase 3, no dia  20/05/2025 
+(terça -feira ) 
+ 
+Nessa sprint , ao qual chama mos de ideação do projeto, é necessário descrever a sua 
+ideia inicial para que seja possível compreender o assunto a ser tratado. Sendo assim , é 
+solicitado um arquivo no padrão PowerPoint (PPT)  que deve conter as informações iniciais 
+de seu projeto . Analise cada bullet  abaixo e , caso tenha dúvidas , procure o seu tutor para que 
+ele possa contribuir.  
+▪ Arquivo  
+EC_Sprint_ 1_1TSCO_ideacaoprojeto_<nome_projeto>_<nome_grupo>.pptx  
+(arquivo fonte powerpoint), contendo a apresentação executiva do projeto, com os 
+seguintes entregáveis:    
+ 
+o Nome completo e RM dos componentes do grupo (*identifique o aluno 
+responsável) .  
+Na imagem a seg uir, temos um exemplo do que é esperado como entrega definindo 
+o nome do aluno representante. O nome da turma, o RM e nome do aluno são 
+informações importantes que auxiliam o tutor e a empresa parceira na identificação 
+do grupo. Não se esqueça de conferir essas informações antes de enviar.   
+  
+Figura 5 - Exemplo de cadastramento dos componentes do grupo de alunos  
+Fonte: Autor  (2023)  
+ 
+ 
+o Nome de seu projeto  
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 13 ---
+
+Enterprise Challenge
+Um nome envolvente e atraente pode aumentar o interesse e o engajamento da 
+equipe CLICKBUS e demais partes interessadas. Caso consiga criar um logotipo , 
+será muito bem -vindo, pois esse tipo de entrega promov e o engajamento e 
+geralmente tem desta que em um a mbiente competitivo.  Veja um exemplo 
+interessante da solução VoxType , que faz transcrição de áudios, criado pelo grupo 
+VoxType . 
+ 
+Figura 6 - Exemplo de nome de projeto para ilustrar a entrega a ser feita a  empresa parceira  
+Fonte : Grupos Alunos FIAP ( 2025 ) 
+ 
+ 
+o Contextualização do problema  
+Onde você se apresenta  com o seu nome  junto com os  demais alunos do grupo  e 
+fornece uma breve contextualização sobre qual desafio foi escolh ido e que será alvo 
+de suas pesquisas . 
+ 
+o Problema a ser resolvido  
+Destaque para "Qual o problema a ser resolvido?": defina claramente qual é o 
+principal problema identificado e apresente rapidamente dados ou casos de uso que 
+evidenciem a importância do problema.  
+ 
+o Público -Alvo   
+Refere -se ao grupo específico de usuários ou clientes que se espera que utilizem ou 
+se beneficiem do software.  Entender o público -alvo é crucial para o sucesso do 
+desenvolvimento de um produto de software, pois influencia diretamente muitos 
+aspectos do processo, incluindo design, funcionalidades, interface do usuário e 
+estratégias de marketing.   
+Identificação das Necessidades do Usuário: o público -alvo é definido pelas 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 14 ---
+
+Enterprise Challenge
+necessidades e problemas que o software pretende resolver. Isso envolve pesquisa 
+para entender as características, comportamentos e expectativas dos usuários 
+potenciais.   
+Definir e entender o público -alvo permite criar produtos de software q ue não só 
+atendem às necessidades dos usuários de maneira eficaz, mas também oferecem 
+uma experiência agradável e envolvente, aumentando assim as chances de sucesso 
+do produto no mercado.   
+  
+o Proposta de solução (como será resolvido)  
+Fale sobre a ideia de s eu grupo: apresente a ideia de sua solução de forma clara e 
+concisa. Aproveite e destaque os principais benefícios e como ela irá resolver o 
+problema identificado.  
+ 
+o Impacto da solução  
+Nesse item . identifique  o impacto que sua solução trará para a sociedade ou para 
+um grupo específico de stakeholders ou um segmento de mercado. Ao falar sobre o 
+impacto da sua solução, você está destacando como e onde a sua proposta pode 
+fazer a diferença . 
+ 
+o Benefícios esperados  
+Os benefícios esperados referem -se aos resultados positivos que se espera alcançar 
+por meio da implementação da sua solução. Ao destacar os benefícios esperados, 
+você está comunicando as razões pelas quais sua solução é valiosa e merece 
+atenção. Eficiência Operacional, Melhoria da Qualidade, Tomada de Decisão 
+baseada em dados, Agilidade , Economia de Recursos, Melhora da Competividade, 
+Segurança da Informação são alguns exemplos de benefícios comuns em projetos 
+envolvendo tecnologia.  Para cada benefício apre sentado, justifique a sua escolha.  
+ 
+o Comparativo com a concorrência  
+Comparar um produto que estamos desenvolvendo com a concorrência é essencial 
+para entender como nosso produto se posiciona no mercado. Isso ajuda a identificar 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 15 ---
+
+Enterprise Challenge
+oportunidades de diferenciaçã o, melhorias e a garantir que nosso produto atenda ou 
+supere as expectativas dos clientes. A análise da concorrência ajuda a tomar 
+decisões informadas sobre preços, recursos e estratégias de marketing, contribuindo 
+para o sucesso do produto no mercado comp etitivo. Um quadro comparativo de um 
+produto em relação à concorrência é uma representação visual que lista as principais 
+características, funcionalidades, especificações e vantagens de um produto em 
+comparação com produtos semelhantes oferecidos por conco rrentes.   
+ 
+ 
+ 
+Figura 7 - Exemplo de quadro comparativo do produto em relação concorrência  
+Fonte: Grupo  Data Science  (2024)  
+ 
+ 
+#dica: um quadro comparativo destacando os pontos positivos da solução enriquece ainda 
+mais a análise   
+ 
+Atenção:  Disponibilizamos o ASSET: 01Template_Ideacao_Challenge_202 5 v1. 
+Utilize para orientação da construção da sua entrega.  
+ 
+ 
+SPRINT 2  Arquitetura , Desenho inicial da solução  e Protótipos iniciais da solução : Fase 
+4, com data final de entrega em 15/06/2025 (domingo)  
+ 
+Nesta sprint, os grupos devem desenvolver a arquitetura inicial da solução definida, 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 16 ---
+
+Enterprise Challenge
+detalhando os principais componentes técnicos e a integração entre eles. Também é esperado 
+nessa sprint definir as tecnologi as que serão utilizadas ao longo do projeto, apresentar 
+protótipos iniciais da interface ou funcionalidades, estruturar o planejamento de gestão do 
+projeto (incluindo cronograma e divisão de tarefas) e realizar a análise exploratória dos dados 
+fornecidos, identificando padrões, oportunidades e possíveis desafios que a equipe enfrentará 
+nas próximas etapas. Sendo assim, é solicitado um arquivo no padrão PowerPoint (PPT) , 
+que irá receber essas informações . Analise cada bullet  abaixo e , caso tenha dúvidas , procure 
+o seu tutor para que ele possa contribuir.  
+▪ Arquivo  
+EC_Sprint_2_1TSCO_arqsolucao_<nome_projeto>_<nome_grupo>.pptx  (arquivo 
+fonte powerpoint), contendo a arquitetura de solução do projeto, com os seguintes 
+entregáveis:    
+o Problema a ser revolvido, P úblico -alvo e Proposta de solução entregue na primeira 
+fase atualizada   
+Solicitamos que cada grupo apresente a proposta de solução que foi entregue na fase 1 
+do projeto. É fundamental que, além da proposta inicial, os grupos indiquem se houve 
+alguma altera ção ou atualização na solução apresentada. Essa reflexão sobre as 
+mudanças permitirá uma análise mais profunda do desenvolvimento do projeto e 
+garantirá que todas as adaptações sejam devidamente documentadas.   
+ 
+o Arquitetura e desenho inicial da solução  
+A entrega desse item está intrinsecamente ligada à clareza do seu desenho 
+arquitetônico. Ao criar uma representação visual abrangente da arquitetura de solução, 
+delineando as tecnologias a serem empregadas, suas conexões e a distribuição na 
+nuvem o u on -premise, estabelecemos as bases para um projeto robusto e bem -
+sucedido.   
+ 
+ #dica:  não se esqueça de detalhar o papel de cada tecnologia em sua proposta ; aqui é 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 17 ---
+
+Enterprise Challenge
+esperado , além do detalhamento , o desenho que representa sua arquitetura, mesmo que 
+seja pr eliminar.   
+A seguir , temos um exemplo hipotético de uma típica arquitetura de solução.  
+ 
+ 
+Figura 8 - Exemplo de Arquitetura de Solução utilizada pelo grupo de alunos para uma empresa 
+parceira  
+Fonte: Autor  (2023)  
+ 
+ 
+Para trazer clareza e domínio do assunto na sua entrega, além da imagem , forneça 
+também uma breve descrição dos componentes de tecnologia envo lvidos em sua 
+arquitetura de solução. Exemplo: a coleta e tratamento de dados será feita a partir da 
+base de dados dos áudios gravados das ligações e após isso, esses dados serão 
+transferidos e armazenados em um Lake de Dados padrão SQL e , com um algoritmo  
+feito em python , será aplicada uma solução para a redução de ruídos e ganho de 
+amplitude dos áudios. Com essa etapa concluída, vamos realizar a tokenização com o 
+uso de PLN e realizar o aprimoramento no áudio , e por fim , captar as emoções dentro 
+de um mod elo de rede neural LSTM, com o objetivo de classificação das emoções. Após 
+a execução dessas tarefas, será feit o o uso da ferramenta JULIUS , que tem como meta 
+realizar a transcrição dos áudios , e com as etapas concluídas , essas informações serão 
+disponibilizadas em um dashboard na ferramenta Power BI para análise e geração de 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 18 ---
+
+Enterprise Challenge
+insights, aprimorando a tomada de decisão.  
+ 
+o Descrição da Arquitetura da Solução (Tecnologias necessárias em sua solução)  
+ Com a entrega desse item, todos os membros da equipe e stakeholders podem ter um 
+entendimento claro e compartilhado sobre as ferramentas e plataformas que serão 
+empregadas no projeto. Isso contribui com o planejamento, comunicação e garante que 
+todos estejam na mesma página. Além de apresentar a tecnologia, traga uma breve 
+descrição em que fase do projeto será utilizada. Perceba a contextualização de cada 
+tecnologia usada no exemplo fictício da entrega esperada representada pela imagem a 
+seguir.  
+ 
+ 
+Figura 9 - Exemplo de tecnologias utilizadas pelo grupo de alunos para um projeto de uma 
+empresa parceira  
+Fonte: Grupo VoxType  (2024) 
+ 
+ 
+o Protótipos da solução definida pelo grupo adicionada a uma breve descrição do 
+significado de cada protótipo.  
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 19 ---
+
+Enterprise Challenge
+#dica : você pode utilizar ferramentas como Canva ( https://www.canva.com/pt_br/ ), 
+Pencil ( https://pencil.evolus.vn/ ) e Figma ( https://www.figma.com/ ) para desenhar o seu 
+protótipo de telas ou qualquer outra ferramenta de prototipação de sua preferência que 
+consiga refletir sua proposta de solução.  
+Esse item é um dos mais importantes , pois aumenta consideravelmente a probabilidade  
+de sucesso na entrega final. A criação de protótipos permite um desenvolvimento 
+incremental e iterativo, sendo possível identificar e mitigar riscos precocemente, 
+economizando tempo antes de comprometer recursos significativos do projeto. Na 
+entrega desse  item, sugerimos que você crie protótipos de baixa fidelidade, ou seja, 
+aquele que foca na representação conceitual da solução , sem se ater a detalhes de 
+design ou funcionalidade avançada. Dashboards, gráficos, tabelas e relatórios são 
+exemplos clássicos d e protótipos que são aprovados pelo PO do projeto . 
+Na imagem a seguir temos um exemplo de um dashboard contendo Net Promoter Score 
+(NPS) dos clientes que utilizam uma determinada plataforma de e -commerce.  
+ 
+Figura 10 - Exemplo de p rotótipo de dashboard da aplicação InoVoice para a empresa parceira  
+Fonte: Grupo Inovators (2024)  
+ 
+A parte de design de dashboard envolve descrever o que dashboard irá fazer, como está 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 20 ---
+
+Enterprise Challenge
+exemplificado nessa análise do exemplo da figura 1 0:  
+“InoVoice, com sua análise de sentimentos, visa proporcionar os melhores insights 
+para aprimorar as tratativas da Ne t Promoter Score (NPS) da empresa parceira . 
+Através de diversos gráficos intuitivos, oferece uma visão abrangente das interações 
+com os clientes, permitindo uma análise detalhada das avaliações e reclamações. 
+Para o protótipo do dashboard , foram utilizadas  cores respeitando a cartela de cores 
+presente no site da empresa parceira  e trabalhando em sub tons para trazer sinergia 
+à visualização dos com fundo forma clean, para não cansar a visão dos usuários” 
+(INOVATORS, 2024).  
+ 
+Além de dashboards, a equipe pode  apresentar outras formas de visualização das 
+informações, como apresentar dados via web, utilizando bibliotecas do Python que nos 
+permite tal realização, como , por exemplo , a biblioteca Streamlit ou outra definida pela 
+equipe.   
+Podem ser inserid as, para a judar o entendimento do usuário, histórias baseadas em 
+dados, ou seja, data storytelling, que combina visualização de dados com narrativa para 
+comunicar insights de maneira mais envolvente.   
+ A comunicação eficaz dos insights é essencial para garantir que as descobertas 
+analíticas sejam compreendidas e utilizadas para tomar decisões estratégicas e 
+operacionais. Adaptar a abordagem ao público específico e ao contexto de uso maximiza 
+o impacto dos insights gerados.   
+Você também pode pensar na vis ualização de dados, baseada em relatórios, como:    
+✓ Relatórios Detalhados:  incluem análises completas, metodologias, gráficos e 
+tabelas. Ideal para equipes técnicas e executivos que necessitam de um 
+entendimento profundo ;  
+✓ Resumos Executivos:  apresentam as principais descobertas e recomendações de 
+forma concisa e objetiva para a alta administração.   
+A combinação de todas essas formas de visualização, podem ser utilizadas na 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 21 ---
+
+Enterprise Challenge
+prototipação da sua solução e deixará bem claro o que sua equipe pretende desenvolver . 
+O ideal é mesclar informações em dashboards para tomada de decisão rápida e 
+detalhamento daquilo que está sendo apresentado para análises de negócio mais 
+profundas.   
+Sugestões de ferramentas que podem ser utilizadas para criar protótipos: Canva, Pencil, 
+Figma, Marvel, Balsamiq Mockups, Proto.IO e outras a critério da sua equipe.  
+ 
+o Gerenciamento  do projeto  utilizando framework ágil  
+A adoção de frameworks ágeis em projetos de tecnologia proporciona uma abordagem 
+colaborativa, adaptativa e eficiente, permitindo que as equipes alcancem melhores 
+resultados e satisfaçam as demandas do cliente de maneira mais eficaz.  A entrega desse 
+item tem por objetivo incentivar o grupo de alunos a aplicar efetivamente o framework 
+ágil que melhor se encaixa n a situação do desafio proposto, incluindo suas cerimônias, 
+garantindo assim uma melhor gestão do projeto.  É esperada que seja feita a entrega de 
+uma imagem ou um link onde seja possível visualizar esse planejamento. A s image ns a 
+seguir representa m o planej amento feito em Kanban.  
+ 
+ 
+Figura 11 - Exemplo de um Kanban utilizando a ferramenta Trello para gerenciamento da 
+backlog de um projeto de Challenge para a empresa Hapvida  
+Fonte: Autor (2025)  
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 22 ---
+
+Enterprise Challenge
+ 
+Figura 12 - Exemplo de um card da ferramenta Trello de um projeto de Challenge para a 
+empresa Hapvida  
+Fonte: Autor  (2025)  
+ 
+ 
+Figura 13 - Exemplo de um Kanban utilizando a ferramenta Trello  para gerenciamento da 
+backlog de um projeto de Challenge para a empresa parceira  
+Fonte: Grupo LUI.AI (2024)  
+ 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 23 ---
+
+Enterprise Challenge
+o Finalização e agradecimentos  
+Aqui, você pode inserir uma conclusão final e agradecer as pessoas que foi submetida 
+sua apresentação  
+ 
+Atenção:  Disponibilizamos o ASSET: 
+02Template_Arquitetura_Desenho__Challenge_2025_v1. Utilize para orientação da 
+construção da sua entrega.  
+ 
+ 
+SPRINT 3 MVP PRELIMINAR (com evidências de construção da solução): data de entrega 
+a definir  
+ 
+Nesta sprint, os g rupos deverão consolidar as informações das sprints anteriores, 
+apresentando a versão mais atual do projeto, com a arquitetura de solução e protótipos mais 
+recentes. Agora , nosso foco principal será a criação de uma versão preliminar do MVP (Produto 
+Mínimo  Viável), baseada na arquitetura definida e nos protótipos desenvolvidos. Espera -se que 
+os alunos iniciem e evoluam no desenvolvimento prático da solução com uso efetivo de código -
+fonte, validando na prática os principais recursos da proposta apresentada, rumo à entrega da 
+solução final. Sendo assim, é solicitado um arquivo no padrão PowerPoint (PPT)  que irá 
+receber essas informações . Analise cada bullet  abaixo e , caso tenha dúvidas , procure o seu 
+tutor para que ele possa contribuir.  
+ 
+• Um novo arquivo 
+EC_Sprint_3_ 1TSCOA_Evidencias_Construcao_<nome_projeto>_<nome_grupo>.pp
+tx (arquivo fonte powerpoint),  contendo os itens do sprint 1 e 2 atualizados , 
+adicionando os seguintes entregáveis:  
+o Contextualização do Problema, Problema a ser resolvido e Proposta de solução  
+(atualizados)  
+Nesta parte, seu grupo deve relembrar de forma resumida o escopo do projeto 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 24 ---
+
+Enterprise Challenge
+(contextualização, problema e solução) e, caso haja alguma mudança, informá -la.  
+ 
+o Documentação do gerenciamento de projetos atualizada . 
+Entregar a documentação atualizada para que a equipe e os stakeholders revisem 
+informações precisas e relevantes sobre o que foi planejado, executado e entregue 
+durante as sprints anteriores (sprints 1 e 2) . Portanto, atualize os itens entregues 
+anteriormente (sprints 1 e 2) e anexe esses itens atualizados na entrega da 
+SPRINT 3.  Atualize  também  o planejamento das atividades desenvolvidas até aqui e 
+envie uma imagem ou um link onde seja possível visualizar esse planejamento . 
+Você pode utilizar o Kanban, para apresentar o planejamento, evolução e 
+acompanhamento atualizado do seu projeto.  
+ 
+o Arquitetura da Solução e Descrição da Arquitetura  
+Similarmente ao que foi feito na entrega da Spr int 2, mostre a arquitetura atualizada e 
+a descrição das tecnologias utilizadas. Não se esqueça de colocar o DESENHO da 
+arquitetura. Este item é obrigatório, mesmo que não haja mudanças desde a última 
+entrega . 
+ 
+o Evidências do que foi construído até o moment o com a v ersão preliminar do MVP 
+baseado na Arquitetura e Protótipos  
+Nesta fase do projeto , chegou o momento de materializar as ideias e conceitos em algo 
+tangível e funcional , ou seja, um MVP (Produto Mínimo Viável). No desenvolvimento de 
+produtos, especialmente no contexto de startups e desenvolvimento ágil de software, 
+MVP refere -se à versão mais básica de um produto que pode ser lançada. O objetivo 
+do MVP é testar rapidamente hipóteses com o menor esforço possível, coletando 
+feedback dos usuários para fazer melhorias e ajustes antes de desenvolver e lançar 
+versões mais completas do produto.  Aqui, será necessário apresentar a prévia da sua 
+solução (MVP) em formato de imagem e texto, por meio de capturas de tela (prints) que 
+ilustrem as funcionalidades da sua solução. No caso das capturas de tela, é crucial 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 25 ---
+
+Enterprise Challenge
+fornecer explicações detalhadas para c ada uma delas  explicando o seu significado  e 
+destacando as diversas funcionalidades da sua solução. Esse compartilhamento de 
+informações contribuirá para uma compreensão mais abrangente do seu MVP.  
+Na entrega desse item, é esperado apresentar para a empres a parceria a evolução do 
+seu projeto contendo a parte técnica e prática da sua solução, como , por exemplo: 
+Algoritmos utilizados para análise e exploração dos dados, Persistência de dados 
+utilizada (modelo relacional, não relacional ou dimensional), Proces so de ingestão de 
+dados, Telas, Gráficos, Dashboards, Diagramas ou qualquer outro elemento relevante 
+que permita demonstrar as principais atividades técnicas executadas até o momento. 
+Caso seja possível, informe todas as fontes de dados ou amostras de dado s 
+personalizadas (tratadas) que fazem parte de seu projeto.  
+Lembre -se que cada evidência apresentada é um testemunho do comprometimento de 
+seu time e irá comprovar à empresa parceira  que, com criatividade e esforço , é possível 
+transformar desafios complexo s em soluções inovadoras.  
+Para contribuir com o seu entendimento, temos a seguir exemplos do que é esperado 
+nessa entrega. Esses exemplos são hipotéticos e sem relevância sobre o tema.  Vamos 
+a eles:  
+1º Exemplo: Algoritmo construído em Python utilizando a biblioteca pandas  
+ 
+ 
+Figura 14 - Algoritmo construído em Python com o uso da biblioteca Scikit Learn  
+Fonte : Autor (2025) 
+ 
+ 
+Nessa imagem , o código utiliza a biblioteca scikit -learn  para realizar a clusterização  
+de um conjunto de dados usando o algoritmo K-Means . Primeiro, importa -se o 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 26 ---
+
+Enterprise Challenge
+matplotlib.pyplot  para visualização, KMeans  da sklearn.cluster  para executar o 
+agrupamento e numpy  para manipulação de arrays. Em seguida, os dados são 
+armazenados em um array nump y chamado dados, que aparentemente vem de uma 
+variável entradas (não definida no código). O modelo KMeans  é então instanciado para 
+formar 3 clusters  (n_clusters=3) com uma semente aleatória fixa (random_state=0), 
+garantindo reprodutibilidade. Por fim, o mo delo é treinado no conjunto de dados usando 
+kmeans.fit(dados), o que significa que o algoritmo ajusta os centróides dos clusters com 
+base nos pontos fornecidos.  
+ 
+ 
+2º Exemplo: Processo ETL realizando a leitura de diversas origens de dados  
+ 
+Figura 15 - Processo ETL realizando a leitura de diversas origens de dados  
+Fonte : Autor (2023)  
+ 
+ 
+Nessa imagem , temos um processo ETL que realiza a leitura e processamento de 
+dados a partir de 2 origens que se encontram no formato Excel e TXT, contendo os 
+dados cadastrais dos clientes e respectivos endereços. Esses dados são oriundos de 
+sistemas externos e após ser em tratados , devem ser transferidos para uma tabela que 
+se encontra em um SGBDR Oracle. A imagem a seguir apresenta a evidência dos 
+dados em seu destino após a execução desse processo.  
+ 
+ 
+Figura 16 - Resultado da execução do processo ETL, transferindo os dados para um banco de 
+dados Oracle  
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 27 ---
+
+Enterprise Challenge
+Fonte : Autor (2023)  
+ 
+ 
+ 
+3º Exemplo: Dashboard contendo informações executivas do NPS  
+ 
+ 
+Figura 17 - Dashboard contendo informações executivas d o NPS  
+Fonte : Grupo Intelli Data Master  (2024) 
+ 
+ 
+Nessa imagem , temos um dashboard para análise do NPS (Net Promoter Score)  que 
+indica uma experiência negativa dos clientes, com um índice geral de -49,60% , 
+resultado de 666 detratores , 164 neutros  e 170 promotores . Todos os segmentos e 
+produtos apresentam NPS negativo, destacando Manufatura ( -61,62%) , Logística ( -
+53,13%)  e Varejo ( -59,15%)  como os segmentos mais críticos. No recorte por produto, 
+Delivery Center ( -56,14%) , CRM( -66,04%)  e Consultoria de Gestão ( -51,67%) estão 
+entre os piores avaliados. O histórico anual mostra piora ao longo do tempo, com 
+quedas expressivas em agosto ( -64,94%)  e setembro ( -65,06%) , sugerindo uma 
+tendência preocupante. Esses dados indicam a necessidade de melhorias significativas 
+no at endimento, qualidade dos produtos e relacionamento com o cliente para reverter 
+essa insatisfação.  
+ 
+ 
+o Finalização e agradecimentos  
+Aqui, você pode inserir uma conclusão final e agradecer as pessoas que foi submetida 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 28 ---
+
+Enterprise Challenge
+sua apresentação . 
+ 
+Atenção:   Disponibiliza mos o ASSET: 
+03Template_MVP_PRELIMINAR_Challenge_2025 _v2. Utilize para orientação da 
+construção da sua entrega.   
+ 
+ 
+ 
+SPRINT 4 (Apresentação da solução final): data de entrega a definir  
+ 
+Nesta última fase, é esperado que seu grupo tenha como foco a entrega do projeto 
+funcionando, acompanhado de um PPT com a apresentação completa do projeto e um vídeo 
+pitch demonstrando a solução em funcionamento. Depois da conclusão dessas entregas, são 
+solicitado s todos os códigos -fontes e esses arquivos devem ser  compactados e enviados ao 
+portal FIAP On.    
+ 
+a) Preencher a planilha Excel  ON-LINE 
+(https://docs.google.com/spreadsheets/d/1q8XL8mhZPvDGDFUtZ94Hoj0zwp8VDUYD/
+edit?usp=sharing&ouid=103401522593422770682&rtpof=true&sd=true )  
+ para que seja possível catalogar o projeto e identificar os participantes da entrega. A figura 
+18 apresenta um exemplo com essas informações preenchidas em letras azuis.  
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 29 ---
+
+Enterprise Challenge
+ 
+Figura 18 - Informações finais do projeto de Challenge a se r entregue  
+Fonte : Autor (2025)  
+ 
+ 
+b) Um novo arquiv o 
+EC_Sprint_4_ 1TSCO_solucaofinal_<nome_projeto>_<nome_grupo>.pptx  (arquivo 
+fonte powerpoint).  
+ 
+o Elabore um powerpoint contendo todos os slides que compõe m o seu pitch  
+de apresentação. Nesse arquivo, apresente toda a sua solução finalizada 
+e operacional, na forma de prints, contendo tudo que foi produzido, como: 
+dashboard, gráficos e relatórios. Os códigos -fontes não devem compor 
+slides dessa entrega, pois existe um ite m específico para isso.  Não se 
+esqueça de criar um slide descrevendo de forma resumida sua solução.  
+ 
+o Procure colocar em uma ordem e faça os comentários necessários para 
+que fique fácil o entendimento da sua proposta. Considere aqui a 
+arquitetura, protótipo s, fontes de dados e implementação das sprints 
+anteriores para que sua solução final seja coerente com o que foi 
+desenvolvido ao longo das sprints 1, 2  e 3. 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 30 ---
+
+Enterprise Challenge
+ 
+ 
+c) Vídeo Pitch de no máximo 5 minutos , apresentando sua solução em formato hands on.  
+A ideia é apresentar sua solução funcionando (desenvolvida e finalizada), tendo aderência 
+em relação ao powerpoint confeccionado no item anterior e precisa ser coerente com o que 
+foi desenvolvido ao longo das  sprints 1, 2 , 3 e 4.  
+ 
+#Dica:  O que desejável em um pitch?  
+ 
+o Introdução (1 minuto):  apresente sua equipe, contextualize o desafio da sua turma. 
+Comece com algo que chame a atenção do seu público, como uma estatística 
+interessante e demais itens relevantes da sua pesquisa, uma pergunta provocativa ou 
+uma declaração audaciosa.  
+o Problema, Solução e Proposta de Valor (até 3 minutos):  descreva claramente o 
+problema que seu produto ou serviço pretende resolver e como ele se propõe a fazer 
+isso. Isso ajuda a criar uma conexão com o público e mostra a relevância do seu negócio.  
+Explique o que torna seu produto ou serviço único e por que ele se destaca no mercado. 
+Qual é o benefício principal para seus clientes?  
+Apresente sua solução, enfatizando público -alvo, benefícios, a solução em si com os 
+devidos resultados.  
+ 
+o Modelo de Negócios e encerramento (até 1 minuto): como você planeja ganhar 
+dinheiro? Descreva seu modelo de receita, estratégia de preços e quaisquer outras 
+fontes de renda. Como sua solução se  destaca no mercado.  
+Aqui, você pode inserir também uma estratégia de marketing para atingir clientes ou 
+usuários e como você planeja comercializar seu produto ou serviço.  
+Se aplicável , você pode especificar a quantia de investimento necessária e como você  
+pretende usá -la. 
+Faça os agradecimentos e uma chamada final para a sua solução, estimulando o olhar 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 31 ---
+
+Enterprise Challenge
+da empresa parceira para o seu projeto.  
+ 
+*** Use slides ou materiais visuais para destacar os pontos -chaves. Finalizar com uma 
+mensagem forte e de impacto pode reforçar a importância e potencial da sua ideia.  
+ 
+*** Antes de gerar o vídeo final, treine bastante a apresentação do seu pitch, garantindo 
+tranquilidade na sua apresentação e uma boa gestão do tempo.  
+ 
+ATENÇÃO: ASSISTA O S PITCH S EXEMPLO S, DISPONIBILIZADO S PARA INSPIRAÇÃO 
+DESTA TAREFA.  
+ 
+Obs: Um exemplo contendo um pitch  em vídeo será disponibilizado para que você possa 
+se inspirar e encontrar maneiras criativas de apresentar suas ideias. Mas lembre -se que , 
+embora um exemplo em vídeo traga benefícios, é importante personalizar seu pitch para 
+refletir de forma autêntica su as próprias ideias.  
+ 
+ 
+o Finalização e agradecimentos:  aqui, você pode inserir uma conclusão final sobre o 
+aprendizado e agradecer as pessoas que contribuíram em sua apresentação.  
+ 
+o Disponibilizar o link com privilégio público de acesso ao vídeo:  solicitamos que o 
+link para acesso ao pitch seja fornecido, considerando que o tamanho do arquivo pode 
+ser grande para upload direto no portal da FIAP, e recomendamos que esse conteúdo 
+esteja na nuvem (a escolha do grupo) com compartilhamento de acesso.  
+ 
+d) Fontes da sua solução no arquivo 
+EC_Sprint_4_ 1TSCO _solucaofinal_<nome_projeto>_<nome_grupo>.zip , 
+formalizando a entrega final.  
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 32 ---
+
+Enterprise Challenge
+O entregável técnico é insubstituível e dentro dele temos uma série de informações 
+importantes , como: os algoritmos empregados para análise e exploração de dados, o 
+sistema de persistência de dados utilizado (seja modelo relacional, não relacional ou 
+dimensional), o processo de ingestão de dados, interfaces, gráficos, dashboards, 
+diagramas, ou qualquer outr o elemento relevante que evidencie as principais atividades 
+executadas até o momento. Se aplicável, também é importante adicionar na entrega todas 
+as fontes de dados ou exemplos personalizados de dados tratados que foram utilizados e 
+integrados ao projeto.   
+*Ponto de atenção:  é esperado que todos os códigos -fontes gerados pelo grupo (solicitados 
+ou não nas fases anteriores) façam parte do seu entregável. A empresa parceira irá avaliar 
+todos os entregáveis técnicos produzidos pelo grupo e será considerado um  diferencial na 
+escolha da melhor entrega.  
+ 
+Antes de fazer upload final com todos esses entregáveis, solicitamos que seja gerado 
+um único arquivo *.zip contendo todos os materiais produzidos durante o projeto , como 
+códigos -fontes, imagens, arquivos do tipo Excel e outros, antes de realizar o upload no portal 
+FIAP  ON.  
+Essa prática visa facilitar a organização das entregas, agrupando todos os itens em um 
+único diretório compactado, o que simplifica o processo d e análise e armazenamento, 
+garantindo que nenhum arquivo essencial seja perdido ou esquecido. Veja um exemplo de 
+entrega esperada, onde temos dentro do arquivo 
+EC_Sprint_4_1TSC_IAGeneration_grupo10.zip  todas as entregas compactadas em um 
+único arquivo feit a pelo grupo 10 do projeto IAGeneration.  
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com
+
+--- PÁGINA 33 ---
+
+Enterprise Challenge
+ 
+Figura 19 - Arquivo EC_Sprint_4_1TSC_IAGeneration_grupo10.zip contendo a entrega final do grupo 10  
+Autor: Scrum Master (2025)  
+ 
+ 
+Atenção:  Disponibilizamos o ASSET: 04Template_SolucaoFinal_Challenge_2025  v2. 
+Utilize para orientação da construção da sua entrega.  
+ 
+Atenção : Não serão aceitas entregas por meio  de links. A entrega deve ser realizada conforme 
+instruções e anexo , contendo todos os arquivos necessários para a avaliação.  
+ 
+Esperamos que esteja tudo pronto para mais esse grande desafio. Desejamos bons 
+estudos e não se esqueça, se precisar de algo , procure o seu SCRUM ou Professor para pronto 
+atendimento.  
+A FIAP e a CLICKBUS desejam um bom desafio ao grupo!  
+ 
+PDF exclusivo para Henrique Manfrin Melchiades Gomes - rm561812
+henriquemanfrin@gmail.com

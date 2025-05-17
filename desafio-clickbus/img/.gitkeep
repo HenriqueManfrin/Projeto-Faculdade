@@ -1,0 +1,9 @@
+# Diretório para armazenar visualizações geradas pelos notebooks
+#
+# Este diretório contém as seguintes subpastas:
+# - exploracao/: Visualizações da análise exploratória de dados
+# - segmentacao/: Visualizações relacionadas à segmentação de clientes
+# - previsao/: Visualizações relacionadas à previsão de próxima compra
+# - recomendacao/: Visualizações relacionadas à recomendação de trechos
+#
+# Execute os notebooks para gerar todas as visualizações 
